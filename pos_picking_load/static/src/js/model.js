@@ -8,6 +8,8 @@ odoo.define('pos_picking_load.model', function (require) {
     "use strict";
 
     var models = require('point_of_sale.models');
+    var utils = require("web.utils");
+    var round_di = utils.round_decimals;
 
     /** **********************************************************************
         Extend Model Order:
@@ -42,9 +44,13 @@ odoo.define('pos_picking_load.model', function (require) {
 
         prepare_order_line_from_picking_line_data: function (
             product, picking_line_data) {
+            var line_price = round_di(
+                picking_line_data.price_unit || product.price,
+                this.pos.dp["Product Price"]
+            );
             return {
                 quantity: picking_line_data.quantity,
-                price: picking_line_data.price_unit || product.price,
+                price: line_price,
                 discount: picking_line_data.discount || 0.0,
             };
         },
