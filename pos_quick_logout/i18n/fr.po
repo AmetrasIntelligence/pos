@@ -1,23 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * pos_quick_logout
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
-# Quentin THEURET <odoo@kerpeo.com>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-01 02:01+0000\n"
-"PO-Revision-Date: 2018-03-01 02:01+0000\n"
-"Last-Translator: Quentin THEURET <odoo@kerpeo.com>, 2018\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_quick_logout/i18n/pos_quick_logout.pot\n"
+"X-Crowdin-File-ID: 3878\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:50\n"
 
 #. module: pos_quick_logout
 #: model_terms:ir.ui.view,arch_db:pos_quick_logout.view_pos_config_view_form_quick_logout
@@ -26,7 +23,7 @@ msgstr ""
 
 #. module: pos_quick_logout
 #. openerp-web
-#: code:addons/pos_quick_logout/static/src/xml/pos_quick_logout.xml:12
+#: code:addons/pos_quick_logout/static/src/xml/pos_quick_logout.xml:0
 #, python-format
 msgid "Log Out"
 msgstr "Déconnexion"
@@ -39,12 +36,10 @@ msgstr "Durée limite pour la déconnexion"
 #. module: pos_quick_logout
 #: model:ir.model,name:pos_quick_logout.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr ""
+msgstr "Configuration du point de vente"
 
 #. module: pos_quick_logout
 #: model:ir.model.fields,help:pos_quick_logout.field_pos_config__logout_timeout
-msgid "Time out for automatic logout for sessions in this POS"
-msgstr "Durée limite pour la déconnexion automatique des sessions dans ce PdV"
+msgid "Timeout (sec) for automatic session logout in this POS"
+msgstr ""
 
-#~ msgid "pos.config"
-#~ msgstr "pos.config"
