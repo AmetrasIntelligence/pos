@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_partner_lang/i18n/pos_partner_lang.pot\n"
+"X-Crowdin-File-ID: 3854\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:50\n"
+
+#. module: pos_partner_lang
+#: model:ir.model,name:pos_partner_lang.model_res_partner
+msgid "Contact"
+msgstr ""
+
+#. module: pos_partner_lang
+#. openerp-web
+#: code:addons/pos_partner_lang/static/src/xml/screens.xml:0
+#: code:addons/pos_partner_lang/static/src/xml/screens.xml:0
+#, python-format
+msgid "Language"
+msgstr ""
+
+#. module: pos_partner_lang
+#. openerp-web
+#: code:addons/pos_partner_lang/static/src/xml/screens.xml:0
+#, python-format
+msgid "N/A"
+msgstr "N / A"
+
