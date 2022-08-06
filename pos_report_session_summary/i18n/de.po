@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_report_session_summary/i18n/pos_report_session_summary.pot\n"
 "X-Crowdin-File-ID: 3882\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-06 23:59\n"
 
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
@@ -79,7 +79,7 @@ msgstr "<strong>Transaktionen insgesamt</strong>"
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
 msgid "Account"
-msgstr ""
+msgstr "Konto"
 
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
