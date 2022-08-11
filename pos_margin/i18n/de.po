@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_margin/i18n/pos_margin.pot\n"
 "X-Crowdin-File-ID: 3836\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-11 15:21\n"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_pos_order_line__purchase_price
@@ -74,7 +74,7 @@ msgstr "Verkaufsstellen-Konfiguration"
 #. module: pos_margin
 #: model:ir.model,name:pos_margin.model_pos_order_line
 msgid "Point of Sale Order Lines"
-msgstr ""
+msgstr "Kassenauftragszeilen"
 
 #. module: pos_margin
 #: model:ir.model,name:pos_margin.model_pos_order
