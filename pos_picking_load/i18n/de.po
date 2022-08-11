@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_picking_load/i18n/pos_picking_load.pot\n"
 "X-Crowdin-File-ID: 3872\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-11 15:21\n"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -156,14 +156,14 @@ msgstr "Verkaufsauftrag"
 #: code:addons/pos_picking_load/static/src/xml/pos_picking_load.xml:52
 #, python-format
 msgid "Scheduled Date"
-msgstr ""
+msgstr "Geplantes Datum"
 
 #. module: pos_picking_load
 #. openerp-web
 #: code:addons/pos_picking_load/static/src/xml/pos_picking_load.xml:33
 #, python-format
 msgid "Search Picking"
-msgstr ""
+msgstr "Lieferschein suchen"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -184,7 +184,7 @@ msgstr "Server-Fehler"
 #: code:addons/pos_picking_load/static/src/xml/pos_picking_load.xml:53
 #, python-format
 msgid "Source Document"
-msgstr ""
+msgstr "Quelldokument"
 
 #. module: pos_picking_load
 #. openerp-web
