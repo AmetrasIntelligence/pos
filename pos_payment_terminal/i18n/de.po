@@ -14,49 +14,49 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_payment_terminal/i18n/pos_payment_terminal.pot\n"
 "X-Crowdin-File-ID: 3864\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_payment_terminal
 #. openerp-web
 #: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
 #, python-format
 msgid "Cannot process transactions with zero or negative amount."
-msgstr ""
+msgstr "Transaktionen mit Null oder negativem Betrag können nicht verarbeitet werden."
 
 #. module: pos_payment_terminal
 #: model:ir.model.fields.selection,name:pos_payment_terminal.selection__pos_payment_method__oca_payment_terminal_mode__card
 msgid "Card"
-msgstr ""
+msgstr "Karte"
 
 #. module: pos_payment_terminal
 #: model:ir.model.fields.selection,name:pos_payment_terminal.selection__pos_payment_method__oca_payment_terminal_mode__check
 msgid "Check"
-msgstr ""
+msgstr "Prüfen"
 
 #. module: pos_payment_terminal
 #. openerp-web
 #: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
 #, python-format
 msgid "Failed to send the amount to pay to the payment terminal. Press the red button on the payment terminal and try again."
-msgstr ""
+msgstr "Fehler beim Senden des Betrags zum Zahlungsterminal. Drücken Sie den roten Knopf auf dem Zahlungsterminal und versuchen Sie es erneut."
 
 #. module: pos_payment_terminal
 #: code:addons/pos_payment_terminal/models/pos_payment_method.py:0
 #, python-format
 msgid "OCA Payment Terminal"
-msgstr ""
+msgstr "OCA Zahlungsterminal"
 
 #. module: pos_payment_terminal
 #: model:ir.model.fields,field_description:pos_payment_terminal.field_pos_payment_method__oca_payment_terminal_mode
 msgid "Payment Mode"
-msgstr ""
+msgstr "Zahlungsmethode"
 
 #. module: pos_payment_terminal
 #. openerp-web
 #: code:addons/pos_payment_terminal/static/src/js/payment_terminal.js:0
 #, python-format
 msgid "Payment Terminal Error"
-msgstr ""
+msgstr "Fehler beim Zahlungsterminal"
 
 #. module: pos_payment_terminal
 #: model:ir.model,name:pos_payment_terminal.model_pos_payment_method
@@ -66,7 +66,7 @@ msgstr "Zahlungsmethoden am Point of Sale"
 #. module: pos_payment_terminal
 #: model:ir.model.fields,field_description:pos_payment_terminal.field_pos_payment_method__oca_payment_terminal_id
 msgid "Terminal identifier"
-msgstr ""
+msgstr "Terminal Identifikation"
 
 #. module: pos_payment_terminal
 #: model:ir.model.fields,help:pos_payment_terminal.field_pos_payment_method__oca_payment_terminal_id
