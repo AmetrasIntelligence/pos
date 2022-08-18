@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_picking_load/i18n/pos_picking_load.pot\n"
 "X-Crowdin-File-ID: 3872\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 07:50\n"
+"PO-Revision-Date: 2022-08-18 16:36\n"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -70,7 +70,7 @@ msgstr "POS-Auftrag"
 #. module: pos_picking_load
 #: model:ir.model.fields,help:pos_picking_load.field_stock_picking_type__available_in_pos
 msgid "If checked, associated pickings will be available in the point of sale, to be changed and paid in it"
-msgstr ""
+msgstr "Wenn aktiviert, stehen die entsprechenden Scheine an der Kasse zur Änderung und Abrechnung zur Verfügung"
 
 #. module: pos_picking_load
 #. openerp-web
