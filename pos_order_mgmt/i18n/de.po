@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_order_mgmt/i18n/pos_order_mgmt.pot\n"
 "X-Crowdin-File-ID: 3840\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,help:pos_order_mgmt.field_pos_config__iface_copy_done_order
@@ -69,21 +69,21 @@ msgstr ""
 #: code:addons/pos_order_mgmt/static/src/js/widgets.js:0
 #, python-format
 msgid "Connection error"
-msgstr ""
+msgstr "Verbindungsfehler"
 
 #. module: pos_order_mgmt
 #. openerp-web
 #: code:addons/pos_order_mgmt/static/src/xml/pos.xml:0
 #, python-format
 msgid "Create a new order based on this one"
-msgstr ""
+msgstr "Eine neue Bestellung basierend auf dieser erstellen"
 
 #. module: pos_order_mgmt
 #. openerp-web
 #: code:addons/pos_order_mgmt/static/src/xml/pos.xml:0
 #, python-format
 msgid "Create a refund order of this order"
-msgstr ""
+msgstr "Erstelle eine Gutschrift für diesen Auftrag"
 
 #. module: pos_order_mgmt
 #. openerp-web
@@ -98,7 +98,7 @@ msgstr "Kunde"
 #: code:addons/pos_order_mgmt/static/src/xml/pos.xml:0
 #, python-format
 msgid "DUPLICATE"
-msgstr ""
+msgstr "DUPLIZIEREN"
 
 #. module: pos_order_mgmt
 #. openerp-web
@@ -110,12 +110,12 @@ msgstr "Datum"
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_config__iface_copy_done_order
 msgid "Duplicate Orders"
-msgstr ""
+msgstr "Aufträge duplizieren"
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_config__iface_load_done_order_max_qty
 msgid "Maximum Orders to load"
-msgstr ""
+msgstr "Maximale Anzahl zu ladender Aufträge"
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,help:pos_order_mgmt.field_pos_config__iface_load_done_order_max_qty
@@ -125,7 +125,7 @@ msgstr ""
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_config__iface_order_mgmt
 msgid "Order Management"
-msgstr ""
+msgstr "Auftragsverwaltung"
 
 #. module: pos_order_mgmt
 #: model:ir.model,name:pos_order_mgmt.model_pos_config
@@ -142,7 +142,7 @@ msgstr "Bestellungen am Point of Sale"
 #: code:addons/pos_order_mgmt/static/src/xml/pos.xml:0
 #, python-format
 msgid "Print a duplicate for this order"
-msgstr ""
+msgstr "Duplikat für diese Bestellung drucken"
 
 #. module: pos_order_mgmt
 #. openerp-web
@@ -156,29 +156,29 @@ msgstr ""
 #: code:addons/pos_order_mgmt/static/src/xml/pos.xml:0
 #, python-format
 msgid "Ref."
-msgstr ""
+msgstr "Ref."
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_order__returned_order_reference
 msgid "Reference of the returned Order"
-msgstr ""
+msgstr "Referenz der Retoure"
 
 #. module: pos_order_mgmt
 #. openerp-web
 #: code:addons/pos_order_mgmt/static/src/js/widgets.js:0
 #, python-format
 msgid "Refund "
-msgstr ""
+msgstr "Gutschrift"
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_order__refund_order_ids
 msgid "Refund Orders"
-msgstr ""
+msgstr "Gutschriften"
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_order__refund_order_qty
 msgid "Refund Orders Quantity"
-msgstr ""
+msgstr "Anzahl Gutschriften"
 
 #. module: pos_order_mgmt
 #: model_terms:ir.ui.view,arch_db:pos_order_mgmt.view_pos_order_form
@@ -188,31 +188,31 @@ msgstr "Gutschriften"
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_config__iface_reprint_done_order
 msgid "Reprint Orders"
-msgstr ""
+msgstr "Aufträge erneut drucken"
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_config__iface_return_done_order
 msgid "Return Orders"
-msgstr ""
+msgstr "Retouren"
 
 #. module: pos_order_mgmt
 #: model:ir.model.fields,field_description:pos_order_mgmt.field_pos_order__returned_order_id
 msgid "Returned Order"
-msgstr ""
+msgstr "Retournierter Auftrag"
 
 #. module: pos_order_mgmt
 #. openerp-web
 #: code:addons/pos_order_mgmt/static/src/xml/pos.xml:0
 #, python-format
 msgid "Returned order:"
-msgstr ""
+msgstr "Retournierter Auftrag:"
 
 #. module: pos_order_mgmt
 #. openerp-web
 #: code:addons/pos_order_mgmt/static/src/xml/pos.xml:0
 #, python-format
 msgid "Search Order"
-msgstr ""
+msgstr "Auftragssuche"
 
 #. module: pos_order_mgmt
 #. openerp-web
@@ -228,5 +228,5 @@ msgstr ""
 #: code:addons/pos_order_mgmt/static/src/js/widgets.js:0
 #, python-format
 msgid "Unknown Products"
-msgstr ""
+msgstr "Unbekannte Produkte"
 
