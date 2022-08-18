@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_report_session_summary/i18n/pos_report_session_summary.pot\n"
 "X-Crowdin-File-ID: 3882\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:59\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
@@ -39,7 +39,7 @@ msgstr "<strong>Endbestand</strong>"
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
 msgid "<strong>Journal</strong>"
-msgstr ""
+msgstr "<strong>Journal</strong>"
 
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
@@ -69,7 +69,7 @@ msgstr "<strong>Anfangsbestand</strong>"
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
 msgid "<strong>Status</strong>"
-msgstr ""
+msgstr "<strong>Status</strong>"
 
 #. module: pos_report_session_summary
 #: model_terms:ir.ui.view,arch_db:pos_report_session_summary.report_session_summary
