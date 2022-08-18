@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_empty_home/i18n/pos_empty_home.pot\n"
 "X-Crowdin-File-ID: 3824\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_empty_home
 #: model:ir.model.fields,field_description:pos_empty_home.field_pos_config__iface_empty_home
@@ -25,7 +25,7 @@ msgstr ""
 #: model:ir.model.fields,help:pos_empty_home.field_pos_config__iface_empty_home
 #: model_terms:ir.ui.view,arch_db:pos_empty_home.view_pos_config_form
 msgid "Hide products if no category is selected."
-msgstr ""
+msgstr "Produkte ausblenden, wenn keine Kategorie ausgewählt ist."
 
 #. module: pos_empty_home
 #: model:ir.model,name:pos_empty_home.model_pos_config
@@ -37,5 +37,5 @@ msgstr "Verkaufsstellen-Konfiguration"
 #: code:addons/pos_empty_home/static/src/xml/pos_empty_home.xml:0
 #, python-format
 msgid "To select a product, please scan a barcode or search products by category or by name"
-msgstr ""
+msgstr "Um ein Produkt auszuwählen, scannen Sie bitte einen Barcode oder suchen Sie Produkte nach Kategorie oder Name"
 
