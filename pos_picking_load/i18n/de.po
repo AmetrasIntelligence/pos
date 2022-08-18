@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_picking_load/i18n/pos_picking_load.pot\n"
 "X-Crowdin-File-ID: 3872\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:21\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -26,7 +26,7 @@ msgstr "Ein Lieferschein ist bereits geladen. Es kann kein weiterer Lieferschein
 #. module: pos_picking_load
 #: model:ir.model.fields,field_description:pos_picking_load.field_stock_picking_type__available_in_pos
 msgid "Available in Point Of Sale"
-msgstr ""
+msgstr "Verfügbar am Point of Sale"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -47,7 +47,7 @@ msgstr "Abbrechen"
 #: code:addons/pos_picking_load/static/src/js/widget.js:242
 #, python-format
 msgid "Connection error"
-msgstr ""
+msgstr "Verbindungsfehler"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -170,7 +170,7 @@ msgstr "Lieferschein suchen"
 #: code:addons/pos_picking_load/static/src/xml/pos_picking_load.xml:29
 #, python-format
 msgid "Select"
-msgstr ""
+msgstr "Auswählen"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -252,5 +252,5 @@ msgstr "Unbekannter Partner"
 #: code:addons/pos_picking_load/static/src/js/widget.js:118
 #, python-format
 msgid "Unknown Products"
-msgstr ""
+msgstr "Unbekannte Produkte"
 
