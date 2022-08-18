@@ -14,24 +14,24 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_quick_logout/i18n/pos_quick_logout.pot\n"
 "X-Crowdin-File-ID: 3878\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_quick_logout
 #: model_terms:ir.ui.view,arch_db:pos_quick_logout.view_pos_config_view_form_quick_logout
 msgid "<span class=\"o_form_label\">Logout Timeout</span>"
-msgstr ""
+msgstr "<span class=\"o_form_label\">Timeout abmelden</span>"
 
 #. module: pos_quick_logout
 #. openerp-web
 #: code:addons/pos_quick_logout/static/src/xml/pos_quick_logout.xml:0
 #, python-format
 msgid "Log Out"
-msgstr ""
+msgstr "Abmelden"
 
 #. module: pos_quick_logout
 #: model:ir.model.fields,field_description:pos_quick_logout.field_pos_config__logout_timeout
 msgid "Logout Timeout"
-msgstr ""
+msgstr "Timeout abmelden"
 
 #. module: pos_quick_logout
 #: model:ir.model,name:pos_quick_logout.model_pos_config
@@ -41,5 +41,5 @@ msgstr "Verkaufsstellen-Konfiguration"
 #. module: pos_quick_logout
 #: model:ir.model.fields,help:pos_quick_logout.field_pos_config__logout_timeout
 msgid "Timeout (sec) for automatic session logout in this POS"
-msgstr ""
+msgstr "Timeout (sek) für automatische Ausloggung an diesem POS"
 
