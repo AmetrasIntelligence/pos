@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_partner_lang/i18n/pos_partner_lang.pot\n"
 "X-Crowdin-File-ID: 3854\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_partner_lang
 #: model:ir.model,name:pos_partner_lang.model_res_partner
@@ -27,7 +27,7 @@ msgstr "Kontakt"
 #: code:addons/pos_partner_lang/static/src/xml/screens.xml:0
 #, python-format
 msgid "Language"
-msgstr ""
+msgstr "Sprache"
 
 #. module: pos_partner_lang
 #. openerp-web
