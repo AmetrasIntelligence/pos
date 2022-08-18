@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_order_to_sale_order/i18n/pos_order_to_sale_order.pot\n"
 "X-Crowdin-File-ID: 3850\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_order_to_sale_order
 #. openerp-web
@@ -28,7 +28,7 @@ msgstr "Zurück"
 #: code:addons/pos_order_to_sale_order/static/src/js/screens.js:0
 #, python-format
 msgid "Check your internet connection and try again."
-msgstr ""
+msgstr "Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
 
 #. module: pos_order_to_sale_order
 #. openerp-web
@@ -83,7 +83,7 @@ msgstr ""
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,field_description:pos_order_to_sale_order.field_pos_config__iface_create_sale_order
 msgid "Create Sale Orders"
-msgstr ""
+msgstr "Verkaufsaufträge erstellen"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model.fields,help:pos_order_to_sale_order.field_pos_config__iface_create_confirmed_sale_order
@@ -106,7 +106,7 @@ msgstr ""
 #: code:addons/pos_order_to_sale_order/static/src/js/screens.js:0
 #, python-format
 msgid "No customer defined"
-msgstr ""
+msgstr "Kein Kunde angegeben"
 
 #. module: pos_order_to_sale_order
 #. openerp-web
@@ -129,7 +129,7 @@ msgstr "Verkaufsstellen-Konfiguration"
 #. module: pos_order_to_sale_order
 #: model_terms:ir.ui.view,arch_db:pos_order_to_sale_order.view_pos_config_form
 msgid "Sale Order Creations"
-msgstr ""
+msgstr "Erstellungen Verkaufsaufträge"
 
 #. module: pos_order_to_sale_order
 #: model:ir.model,name:pos_order_to_sale_order.model_sale_order
@@ -146,7 +146,7 @@ msgstr "Kundenauftragszeile"
 #: code:addons/pos_order_to_sale_order/static/src/js/screens.js:0
 #, python-format
 msgid "The order could not be sent"
-msgstr ""
+msgstr "Die Bestellung konnte nicht gesendet werden"
 
 #. module: pos_order_to_sale_order
 #. openerp-web
