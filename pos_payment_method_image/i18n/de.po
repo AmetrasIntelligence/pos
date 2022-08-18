@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_payment_method_image/i18n/pos_journal_image.pot\n"
 "X-Crowdin-File-ID: 3858\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-12 12:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_journal_image
 #: model:ir.model,name:pos_journal_image.model_account_journal
@@ -25,5 +25,5 @@ msgstr "Journal"
 #: model:ir.model.fields,field_description:pos_journal_image.field_account_bank_statement_import_journal_creation__pos_image
 #: model:ir.model.fields,field_description:pos_journal_image.field_account_journal__pos_image
 msgid "PoS Image"
-msgstr ""
+msgstr "PoS Bild"
 
