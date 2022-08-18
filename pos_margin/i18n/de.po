@@ -14,23 +14,23 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_margin/i18n/pos_margin.pot\n"
 "X-Crowdin-File-ID: 3836\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:21\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_pos_order_line__purchase_price
 msgid "Cost Price"
-msgstr ""
+msgstr "Kostenpreis"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_pos_config__iface_display_margin
 msgid "Diplay Margin"
-msgstr ""
+msgstr "Marge anzeigen"
 
 #. module: pos_margin
 #: model:ir.model.fields,help:pos_margin.field_pos_config__iface_display_margin
 #: model_terms:ir.ui.view,arch_db:pos_margin.view_pos_config_form
 msgid "Display Margin and Margin Rate in the frontend"
-msgstr ""
+msgstr "Marge und Margenrate im Frontend anzeigen"
 
 #. module: pos_margin
 #: model:ir.model.fields,help:pos_margin.field_pos_order__margin
@@ -41,30 +41,30 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_margin.field_pos_order__margin
 #: model:ir.model.fields,field_description:pos_margin.field_pos_order_line__margin
 msgid "Margin"
-msgstr ""
+msgstr "Marge"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_pos_order__margin_percent
 #: model:ir.model.fields,field_description:pos_margin.field_pos_order_line__margin_percent
 msgid "Margin (%)"
-msgstr ""
+msgstr "Marge (%)"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_report_pos_order__margin_rate
 msgid "Margin Rate"
-msgstr ""
+msgstr "Margenrate"
 
 #. module: pos_margin
 #: model:ir.model.fields,field_description:pos_margin.field_report_pos_order__margin_total
 msgid "Margin Total"
-msgstr ""
+msgstr "Marge Gesamt"
 
 #. module: pos_margin
 #. openerp-web
 #: code:addons/pos_margin/static/src/xml/pos_margin.xml:0
 #, python-format
 msgid "Margin:"
-msgstr ""
+msgstr "Marge:"
 
 #. module: pos_margin
 #: model:ir.model,name:pos_margin.model_pos_config
@@ -84,7 +84,7 @@ msgstr "Bestellungen am Point of Sale"
 #. module: pos_margin
 #: model:ir.model,name:pos_margin.model_report_pos_order
 msgid "Point of Sale Orders Report"
-msgstr ""
+msgstr "POS Bericht Verkaufsaufträge"
 
 #. module: pos_margin
 #: model_terms:ir.ui.view,arch_db:pos_margin.view_pos_order_tree
