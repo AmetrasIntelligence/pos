@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_default_partner/i18n/pos_default_partner.pot\n"
 "X-Crowdin-File-ID: 3822\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:50\n"
+"PO-Revision-Date: 2022-08-18 07:50\n"
 
 #. module: pos_default_partner
 #: model_terms:ir.ui.view,arch_db:pos_default_partner.pos_config_view_form
@@ -25,12 +25,12 @@ msgstr "Kunden"
 #: model:ir.model.fields,field_description:pos_default_partner.field_pos_config__default_partner_id
 #: model_terms:ir.ui.view,arch_db:pos_default_partner.pos_config_view_form
 msgid "Default Customer"
-msgstr ""
+msgstr "Standardkunde"
 
 #. module: pos_default_partner
 #: model_terms:ir.ui.view,arch_db:pos_default_partner.pos_config_view_form
 msgid "Default customer to use if none is set"
-msgstr ""
+msgstr "Wenn kein Kunde gesetzt wurde, wird der Standardkunde verwendet"
 
 #. module: pos_default_partner
 #: model:ir.model,name:pos_default_partner.model_pos_config
