@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.pos] 13.0/pos_picking_load/i18n/pos_picking_load.pot\n"
 "X-Crowdin-File-ID: 3872\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 16:36\n"
+"PO-Revision-Date: 2022-10-07 05:55\n"
 
 #. module: pos_picking_load
 #. openerp-web
@@ -206,7 +206,7 @@ msgstr "Dieser Lieferschein wurde abgebrochen, da er durch diesen POS-Auftrag er
 #. module: pos_picking_load
 #: model:ir.model,name:pos_picking_load.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Transfer"
 
 #. module: pos_picking_load
 #. openerp-web
