@@ -1,4 +1,5 @@
 /** @odoo-module **/
+/* global google */
 
 import {onMounted, onWillStart} from "@odoo/owl";
 import PartnerMapEdit from "pos_partner_location_abstract.PartnerMapEdit";
