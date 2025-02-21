@@ -1,7 +1,7 @@
 /** @odoo-module **/
 
-import {ProductScreen} from "point_of_sale.tour.ProductScreenTourMethods";
 import {getSteps, startSteps} from "point_of_sale.tour.utils";
+import {ProductScreen} from "point_of_sale.tour.ProductScreenTourMethods";
 import Tour from "web_tour.tour";
 
 startSteps();
