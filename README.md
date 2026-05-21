@@ -26,6 +26,7 @@ addon | version | maintainers | summary
 [pos_auto_invoice](pos_auto_invoice/) | 16.0.1.0.0 |  | Allow to set POS orders as to-invoice by default
 [pos_bypass_global_discount](pos_bypass_global_discount/) | 16.0.1.0.1 |  | POS Bypass Global Discount
 [pos_cash_control_override](pos_cash_control_override/) | 16.0.1.0.0 |  | Override bare PoS user cash control restrictions
+[pos_cash_move_reason](pos_cash_move_reason/) | 16.0.1.0.0 |  | POS cash in-out reason
 [pos_cashback](pos_cashback/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Point of Sale - Cashback
 [pos_category_complete_name](pos_category_complete_name/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Adds the complete name field on the pos category field.
 [pos_config_logo](pos_config_logo/) | 16.0.1.0.0 |  | Set logotypes different from the company's one
@@ -61,7 +62,8 @@ addon | version | maintainers | summary
 [pos_order_to_sale_order_sale_financial_risk](pos_order_to_sale_order_sale_financial_risk/) | 16.0.1.0.1 | <a href='https://github.com/geomer198'><img src='https://github.com/geomer198.png' width='32' height='32' style='border-radius:50%;' alt='geomer198'/></a> <a href='https://github.com/CetmixGitDrone'><img src='https://github.com/CetmixGitDrone.png' width='32' height='32' style='border-radius:50%;' alt='CetmixGitDrone'/></a> | Sale Financial Risk control for Sales Orders created from POS
 [pos_partner_alternative_pricelist_load_background](pos_partner_alternative_pricelist_load_background/) | 16.0.1.0.0 |  | Load partner alternative pricelist in background
 [pos_partner_birthdate](pos_partner_birthdate/) | 16.0.1.0.5 | <a href='https://github.com/ecino'><img src='https://github.com/ecino.png' width='32' height='32' style='border-radius:50%;' alt='ecino'/></a> | Adds the birthdate in the customer screen of POS
-[pos_partner_firstname](pos_partner_firstname/) | 16.0.1.0.6 | <a href='https://github.com/robyf70'><img src='https://github.com/robyf70.png' width='32' height='32' style='border-radius:50%;' alt='robyf70'/></a> | POS Support of partner firstname
+[pos_partner_firstname](pos_partner_firstname/) | 16.0.2.0.0 | <a href='https://github.com/robyf70'><img src='https://github.com/robyf70.png' width='32' height='32' style='border-radius:50%;' alt='robyf70'/></a> | POS Support of partner firstname
+[pos_partner_is_company](pos_partner_is_company/) | 16.0.2.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | POS Support of 'Is Company' partner field
 [pos_partner_load_new_data](pos_partner_load_new_data/) | 16.0.1.0.0 | <a href='https://github.com/flaenen'><img src='https://github.com/flaenen.png' width='32' height='32' style='border-radius:50%;' alt='flaenen'/></a> | Load new partner data during a POS sale
 [pos_partner_location_abstract](pos_partner_location_abstract/) | 16.0.1.0.1 |  | POS Partner Location Abstract
 [pos_partner_location_google_map](pos_partner_location_google_map/) | 16.0.1.0.1 |  | POS Partner Location Google Map
@@ -77,7 +79,7 @@ addon | version | maintainers | summary
 [pos_payment_terminal](pos_payment_terminal/) | 16.0.1.0.3 |  | Point of sale: support generic payment terminal
 [pos_payment_usability](pos_payment_usability/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Improve payment screen in the PoS front office
 [pos_picking_delayed](pos_picking_delayed/) | 16.0.1.0.1 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Delay the creation of the picking when PoS order is created
-[pos_picking_load](pos_picking_load/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Load and confirm stock pickings via Point Of Sale
+[pos_picking_load](pos_picking_load/) | 16.0.1.1.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Load and confirm stock pickings via Point Of Sale
 [pos_place](pos_place/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Define places on PoS orders
 [pos_price_to_weight](pos_price_to_weight/) | 16.0.1.1.0 |  | Compute weight based on barcodes with prices
 [pos_pricelist_technical](pos_pricelist_technical/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Prevent technical pricelists from being displayed in the Point of Sale front-end UI
@@ -106,6 +108,7 @@ addon | version | maintainers | summary
 [pos_stock_available_online](pos_stock_available_online/) | 16.0.2.0.3 |  | Show the available quantity of products in the Point of Sale
 [pos_supplierinfo_search](pos_supplierinfo_search/) | 16.0.1.0.0 | <a href='https://github.com/eLBati'><img src='https://github.com/eLBati.png' width='32' height='32' style='border-radius:50%;' alt='eLBati'/></a> | Search products by supplier data
 [pos_tare](pos_tare/) | 16.0.1.1.0 | <a href='https://github.com/fkawala'><img src='https://github.com/fkawala.png' width='32' height='32' style='border-radius:50%;' alt='fkawala'/></a> <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Manage Tare in Point Of Sale module
+[pos_ticket_extra_company_info](pos_ticket_extra_company_info/) | 16.0.1.0.1 |  | Add extra company infos on the ticket
 [pos_ticket_extra_company_info_l10n_fr](pos_ticket_extra_company_info_l10n_fr/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Add siret company infos on the ticket
 [pos_timeout](pos_timeout/) | 16.0.1.0.0 |  | Set the timeout of the point of sale
 [pos_to_weight_by_product_uom](pos_to_weight_by_product_uom/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Make 'To Weight' default value depending on product UoM settings
